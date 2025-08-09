@@ -31,7 +31,7 @@ You can find a full list of what YOLO trained on the COCO dataset can detect <a 
 
 - `python yolo.py --image images/baggage_claim.jpg`
 
-## Screenshots
+## showcase
 ![Image](/Object%20dection%20using%20image/1.png)
 
 Here you can see that YOLO has not only detected each person in the input image, but also the suitcases as well!
@@ -53,8 +53,7 @@ YOLO is able to correctly detect each of the players on the pitch, including the
 
 - `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`
 
-## Screenshots
-
+## showcase
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20detection%20using%20video/car.gif">
 
 In the video/GIF, you can see not only the vehicles being detected, but people, as well as the traffic lights, are detected too!
@@ -92,7 +91,3 @@ SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 
 
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/real-time-object-detection/real_time.gif">
-
-Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
-
-Just follow☝️ me and Star⭐ my repository
