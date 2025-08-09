@@ -90,7 +90,7 @@ SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 
 - `python real_time_object_detection.py`
 
-## Screenshots
+
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/real-time-object-detection/real_time.gif">
 
 Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
