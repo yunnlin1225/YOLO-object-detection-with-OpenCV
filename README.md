@@ -56,7 +56,7 @@ YOLO is able to correctly detect each of the players on the pitch, including the
 ## showcase
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20detection%20using%20video/car.gif">
 
-In the video/GIF, you can see not only the vehicles being detected, but people, as well as the traffic lights, are detected too!
+In the video, you can see not only the vehicles being detected, but people, as well as the traffic lights, are detected too!
 
 The YOLO object detector is performing quite well here. 
 
