@@ -53,7 +53,7 @@ YOLO is able to correctly detect each of the players on the pitch, including the
 
 - `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`
 
-## Screenshots
+## showcase
 
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20detection%20using%20video/car.gif">
 
@@ -90,7 +90,7 @@ SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 
 - `python real_time_object_detection.py`
 
-## Screenshots
+## showcase
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/real-time-object-detection/real_time.gif">
 
 Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
